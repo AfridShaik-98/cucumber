@@ -1,0 +1,5 @@
+pageObjects\forProducts.class
+pageObjects\LoginPage.class
+testrunner\runner.class
+stepDefinitions\BaseClass.class
+stepDefinitions\steps.class
