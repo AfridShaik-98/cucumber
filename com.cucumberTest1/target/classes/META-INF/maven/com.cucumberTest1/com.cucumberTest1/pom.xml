@@ -35,7 +35,8 @@
 				<configuration>
 					<includes>
 						<!-- Specify your test runner class -->
-						<include>**/testrunner/runner.java</include>
+						<include>
+							**/testrunner/runner.java</include>
 					</includes>
 				</configuration>
 			</plugin>

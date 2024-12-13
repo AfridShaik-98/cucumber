@@ -5,6 +5,8 @@ Feature: Login
     When Enter the username as "standard_user"
     When Enter the password as "secret_sauce"
     When Click on Login button
+    
+    
 Scenario: Verify user is able to login with valid credentials
 
 
