@@ -13,14 +13,12 @@ And Close the browser
 
 
 
-@negative_testcase
 Scenario: Verify user is able to login with Invalid credentials
 
 
 Then Expected title is "Swag Labs"
 And Close the browser
 
-@negative_testcase
 Scenario: Verify user is able to login with Invalid credentials
 
 
